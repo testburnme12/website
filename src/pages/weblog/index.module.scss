@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.article-container {
+  flex-grow: 1;
+  flex-basis: 0;
+  min-width: 300px;
+  max-width: 500px;
+}
+
+.articles {
+  margin: 0;
+  width: 100%;
+  max-height: 55vh;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+}
+
+.article {
+  margin-bottom: 0.5rem;
+  margin-right: 0.4rem;
+  padding: 0.75rem;
+  border: 1px solid rgba(128, 128, 128, 0.4);
+  border-radius: 5px;
+
+  &:hover {
+    border: 1px solid;
+  }
+
+  a {
+      background-color: transparent;
+      border: none;
+  }
+
+  .description {
+    opacity: 0.8;
+  }
+}

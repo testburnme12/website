@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+
+  @media (min-width: 600px) {
+    gap: 2.25rem;
+  }
+}
+
+.info {
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+
+  @media (min-width: 1024px) {
+    width: 42%;
+  }
+}
+
+.cities {
+  a {
+    border: unset;
+    background-color: transparent;
+  }
+
+  table {
+    max-width: 500px;
+  }
+}

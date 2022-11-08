@@ -1,0 +1,22 @@
+.boxes {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 5rem;
+}
+
+.form-container {
+  width: 300px;
+
+  form {
+    textarea {
+      width: 300px;
+      height: 150px;
+      resize: none;
+    }
+
+    + p {
+      word-break: break-all;
+    }
+  }
+}

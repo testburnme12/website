@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-bottom: 5rem;
+
+  textarea {
+    min-width: 20rem;
+    height: 15rem;
+    resize: none;
+  }
+
+  input[type='number'] {
+    width: 7rem;
+  }
+
+  label {
+    display: flex;
+    flex-direction: column;
+  }
+}

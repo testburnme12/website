@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+
+  .tags-container {
+    flex-grow: 1;
+    flex-basis: 0;
+    min-width: 300px;
+    max-width: 400px;
+
+    .tags {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 10px;
+
+      .tag {
+        padding: 1px 10px;
+        border: 1px solid rgba(52, 73, 94, 0.3);
+        border-radius: 4px;
+
+        &:hover,
+        &:focus {
+          border: 1px solid gray;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+Created by: @rsapkf
+
+# Stack
+- Languages: HTML, CSS (SCSS), JavaScript, Markdown, MDX
+- Frameworks: React, GraphQL, Gatsby, Node.js
+- Tools: Netlify, Neovim, Debian 9, Git, GitHub, Firefox Developer Edition, Chromium, VSCodium, npm ...
+- Icons: Font Awesome
+- Fonts: Google Fonts, https://github.com/majodev/google-webfonts-helper
+- Loading SVG: https://github.com/SamHerbert/SVG-Loaders
+- APIs: GitHub REST API, Mastodon REST API

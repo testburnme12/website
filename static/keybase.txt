@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/rsapkf
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rsapkf.org
+  * I am rsapkf (https://keybase.io/rsapkf) on keybase.
+  * I have a public key with fingerprint D8CA CD01 F5F1 095F 6455  F79F 00C9 BB09 C8FB C5E9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011aedbaadf3657e306dde65a9a2086dab3f9d09440a6a9e9f2b8ad4bb355cfd080a",
+      "fingerprint": "d8cacd01f5f1095f6455f79f00c9bb09c8fbc5e9",
+      "host": "keybase.io",
+      "key_id": "00c9bb09c8fbc5e9",
+      "kid": "01011aedbaadf3657e306dde65a9a2086dab3f9d09440a6a9e9f2b8ad4bb355cfd080a",
+      "uid": "0366e92027806376daa41073f11d7f19",
+      "username": "rsapkf"
+    },
+    "merkle_root": {
+      "ctime": 1659252815,
+      "hash_meta": "4302b89bf086fee152db3f0bb30adb98098ff31ddb8466cdebe08b820e27f97e",
+      "seqno": 22942049
+    },
+    "revoke": {
+      "sig_ids": [
+        "ee560a1fa5cf9fd074e1ed3b7e8c7e442840095648dcb048d047e618d3534d7d0f"
+      ]
+    },
+    "service": {
+      "hostname": "rsapkf.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1659252862,
+  "expire_in": 157680000,
+  "prev": "47d9213b84faae473254dbbfd9d3b66f910e17cbd8fceeca552ab51218d9b0aa",
+  "seqno": 60,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK2AnicrVNbaB1FGD5JakuCt4fEKijoij7UY52Z3ZmdWS/1RUSrokgqpWmPMzv/
+nCwnOXvc3XM0piegUNtSpFXQkCIWC4a01NRbb5aKhIAcq0UJqPVCfbGBYlqNNOLd
+2VYR9dV92GWG7/v+7/tmZ/qijkJXW+9H93b3l65f33Z0Kq0X1Ek0MuyoWA85wbBT
+gXMfGNCQZqVKpJ3AQRhhLEErKbVxGfXBRUxrYFQKSRBnWirXCI2E5yHJpABhiOJS
+e0q5lIZGI46kU3RMVC1DUkuiamZlNQ9lqBE21GAkqGEepcYXBqFQKIVEyI0KKQhL
+7I/TnGHNKZnC8ii2e3ZROm/vv/j/2Xf9vJzLGAiCiM8Rc33Llh5Gvmsw1r7B+dx6
+CklVDoJFJ6msVYzTLDqDkFQGoJTEcZZXG2ZRDsCMCkIJx9TGk2l/aRAyaXmei6wH
+oYz1ZwAwJdqaRNYRkloJjgQ3xsVaK+4xFmpQgLjiBAHxjfDBukjhkWrsBIQIjyBP
+WAsJNOIK5NPTqGxbS51gjQNAGZLYSJtU2Ky+Bxi0q3zgoQ+eR7iH7Lkwj+tQIftG
+ng8Mc+1S19O+RsZZ28ynJY0oPCeeH9M/4i+Pk7I1VEviLA7jAbvfn2W1NMhryYZq
+OfBRUKU/JUoqqmr7i1hGA5I0iqu2Jov8V2OMFB14rBYlUIpyBPUZR/bJ50Ajr9DX
+gmDXFmSkBM93CfW0UkYLm44xIzAC7IdKcxMChJJSIhXFxEYTCkn5d4XMimaybDVt
+b1WZ1RNwmlPv9C0qtHUVFl/Qnt+dQlfnpX/dqL49S369/PtdWz8Oto99Fcw8Pbf3
+uT0Pbhp6w71PrNj3+Dcvv9VEp186cmhieHPP24Obj65/sjjb6nn/yJan+Gu7T98Q
+LKAbg63vnepoHFs48fmy3snW6g92XbbqwD3PL4xvPHnbhmO/vTl2Yj665XhxUena
+0btX7t25Y0XPs2daE8s6v/h06eS7F/aOd1avuOqTkfsvGfv9ZnfN9OuVkdvHNmw/
+IF959a7m0p2Ht+EXfvrsu/rB1TNDD1w9v/brH7vLeP6Zh4+PTO+f2L9u8TbZWnXo
+oe6NTjjzxGz7Ydm8accPk2fmstFNc3fcOuVf92XHvrNXdulrSOvn8bNTv9y55eDs
+i177ytHkw2qg182d6itfvOTb8T8AA7mMBA==
+=UrAn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rsapkf
+
+==================================================================

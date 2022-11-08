@@ -1,0 +1,19 @@
+.container {
+  .details {
+    padding-top: 0.5rem;
+    padding-left: 0.75rem;
+
+    ul {
+      margin-left: 15px;
+      list-style: none;
+      line-height: 1.25;
+      margin-bottom: 0;
+    }
+
+    a {
+      border: 0;
+      background-color: transparent;
+      font-size: 0.95rem;
+    }
+  }
+}

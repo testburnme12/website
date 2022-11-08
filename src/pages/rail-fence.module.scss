@@ -1,0 +1,26 @@
+.form {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-bottom: 5rem;
+
+  textarea {
+    width: 20rem;
+    height: 10rem;
+    resize: none;
+  }
+
+  input {
+    width: 7rem;
+  }
+
+  label {
+    display: flex;
+    flex-direction: column;
+  }
+
+  p {
+    max-width: 20rem;
+  }
+}
